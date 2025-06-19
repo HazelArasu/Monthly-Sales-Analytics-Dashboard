@@ -1,5 +1,3 @@
-# Monthly Sales Analytics Dashboard
-
 ## Objective
 Analyze the superstore's sales to find:
 - Trends across sales,quantity,discounts and profits
