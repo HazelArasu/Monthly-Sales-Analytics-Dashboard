@@ -20,7 +20,7 @@ Analyze the superstore's sales to find:
 -Data visualization
 
 ## Github repository
-[project](https://github.com/HazelArasu/Monthly-Sales-Analytics-Dashboard)
+[Project](https://github.com/HazelArasu/Monthly-Sales-Analytics-Dashboard)
 
 ## Key Findings
 - Profit was the highest in the year 2020
