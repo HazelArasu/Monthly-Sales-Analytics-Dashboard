@@ -17,6 +17,7 @@ Analyze the superstore's sales to find:
 
 ## Skills
 -Data modeling, slicers, KPIs, trend analysis
+
 -Data visualization
 
 ## Github repository
