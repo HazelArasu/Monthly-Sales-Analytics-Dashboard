@@ -1,7 +1,7 @@
 # Monthly-Sales-Analytics-Dashboard
 
 ## Objective
-Analyze the store Awesome Chocolates' sales to find:
+Analyze the superstore's sales to find:
 - Trends across sales,quantity,discounts and profits
 - Top customers
 - Sales analysis by category and sub-category
