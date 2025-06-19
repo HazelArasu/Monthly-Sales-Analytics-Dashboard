@@ -1,4 +1,4 @@
-# Monthly-Sales-Analytics-Dashboard
+# Monthly Sales Analytics Dashboard
 
 ## Objective
 Analyze the superstore's sales to find:
