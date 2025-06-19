@@ -19,6 +19,9 @@ Analyze the superstore's sales to find:
 -Data modeling, slicers, KPIs, trend analysis
 -Data visualization
 
+## Github repository
+[project](https://github.com/HazelArasu/Monthly-Sales-Analytics-Dashboard)
+
 ## Key Findings
 - Profit was the highest in the year 2020
 - Electronic items are the most bought by customers
